@@ -17,3 +17,20 @@ Only warnings will be issued for the first 30 days after a cameras are newly-est
 The first time a vehicle owner is eligible to receive an actual ticket, they will instead receive a warning notice
 
 Fines for violations are $35 for vehicles traveling 6-10 mph over the posted speed limit while in a safety zone, and $100 for vehicles traveling 11 or more mph over the posted speed limit.  
+
+# Finding 1
+
+Number of crashes over time
+Number of records with kids age under 12
+
+While number of violations decline, number of crashes seem to be the same
+
+
+
+
+
+# Finding 2
+
+
+
+# Finding 3
