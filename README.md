@@ -28,9 +28,15 @@ While number of violations decline, number of crashes seem to be the same
 
 
 
-
 # Finding 2
+
+Low violations and camera location doesn't seem to stop crashes from happening
+(both map data piled together)
 
 
 
 # Finding 3
+
+
+
+
