@@ -16,7 +16,7 @@ I found a [data set](https://data.cityofchicago.org/Transportation/Traffic-Crash
 
 ### Finding 1
 
-While number of violations decline over time, number of crashes seem to go up.
+**While number of violations decline over time, number of crashes seem to go up.**
 
 The first cameras were installed in August 2013 and the data begin from July 1, 2014 until present. There seems to be a steady incline of crashes starting from July 2015.
 
@@ -28,7 +28,7 @@ This could be the case that people are more aware of the location of the cameras
 
 ### Finding 2
 
-While looking at top 10 cameras with the most violation captured, the area around those cameras seem to have less accidents
+**While looking at top 10 cameras with the most violation captured, the area around those cameras seem to have less accidents.**
 
 The first graph shows the camera locations.
 
@@ -44,13 +44,14 @@ Below is the same graph as above, with camera locations highlighted
 
 ### Finding 3
 
-I'm also interested to see if number of crashes might decrease during speed camera's hour of operations from 7 AM to 4 PM. It turns out that those hours are actually when number of crashes are high. I suspect that this is also the time people commute to and from work, so I cannot make any implication to the effectiveness of the program simply from this chart.
+I'm also interested to see if number of crashes might decrease during speed camera's hour of operations from 7 AM to 4 PM. It turns out that those hours are actually when number of crashes are high. I suspect that this is also the time people commute to and from work, so I cannot make any implication to the effectiveness of the program simply from this chart. 
+
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6.png?raw=true)
 
 However, I want to look at the age of people that were involved in the crashes because I believe this will be a better proxy at looking at the effectiveness of the program.
 
-Looking at the crash data, number of children involved in accident seem to go up year over year.  
+Looking at the crash data, **number of children involved in accident seem to go up year over year.** 
 
-![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6.png?raw=true)
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG7.png?raw=true)
 
 
