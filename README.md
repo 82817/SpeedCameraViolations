@@ -3,8 +3,6 @@ MSIS 2629 Spring 2019
 
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d (Traffic Crashes)
 
-https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
-
 Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children.
 
 The Children’s Safety Zone Program protects children and other pedestrians by reminding motorists to slow down and obey speed laws – especially in school and park zones. Safety zones are designated as a 1/8th of a mile boundary around any Chicago parks or schools.
@@ -12,21 +10,11 @@ The Children’s Safety Zone Program protects children and other pedestrians by 
 The enforcement hours will be limited from 7 a.m. to 7 p.m. in safety zones around schools on school days (Monday through Friday)
 7 a.m. to 4 p.m.: 20 miles per hour (mph) speed limit when children are present; and the posted speed limit when no children are present
 
-7 a.m. to 7 p.m.: The posted speed limit
+https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
 
-The enforcement hours around parks will be limited to only those hours parks are open (typically 6 a.m. to 11 p.m., 7 days a week) with a 30 mph speed limit
+Since the whole program is established around pedestrians safety, specifically child safety, I want to look further into this aspect of  the data. 
 
-Only warnings will be issued for the first 30 days after a cameras are newly-established in a safety zone
-
-The first time a vehicle owner is eligible to receive an actual ticket, they will instead receive a warning notice
-
-Fines for violations are $35 for vehicles traveling 6-10 mph over the posted speed limit while in a safety zone, and $100 for vehicles traveling 11 or more mph over the posted speed limit.  
-
-
-
-Since the whole program is established around safty, specifically child safty, I want to look into this aspect of data. 
-
-I found a data set that contains information about people involved in a crash and filtered to contain only information in Chicago. Comparing this data set to the previous assignment, I've found a couple interesting information.
+I found a [data set](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d) that contains information about people involved in a crash and filtered to contain only information in Chicago. Comparing this data set to previous assignment, I've found a couple interesting information.
 
 # Finding 1
 
@@ -34,7 +22,7 @@ While number of violations decline over time, number of crashes seem to go up.
 
 The first cameras were installed in August 2013 and the data begin from July 1, 2014 until present. There seems to be a steady incline of crashes starting from July 2015.
 
-This could be the case that people are aware of the location of the cameras. Also, the location of the crash might not necessarily by a camera location. Regardless, it is concerning to see number of crashes go up
+This could be the case that people are more aware of the location of the cameras. Also, the location of the crash might not necessarily be by a camera location. Regardless, it is concerning to see number of crashes go up
 
 
 Number of Violations and Date (Year/Month) + Time
