@@ -40,7 +40,7 @@ This graph below shows crash locations. Compare with the first graph, we can see
 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG5.png?raw=true)
 
-Below is the same graph as above, with camera locations highlighted
+Below is the same graph as above, with camera locations highlighted. The bigger the size of the dots, the more crashes happen in that area.
 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG4.png?raw=true)
 
