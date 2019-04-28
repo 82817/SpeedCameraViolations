@@ -1,16 +1,13 @@
 # SpeedCameraViolations
 MSIS 2629 Spring 2019
 
-https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d (Traffic Crashes)
 
 Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children.
 
 The Children’s Safety Zone Program protects children and other pedestrians by reminding motorists to slow down and obey speed laws – especially in school and park zones. Safety zones are designated as a 1/8th of a mile boundary around any Chicago parks or schools.
 
 The enforcement hours will be limited from 7 a.m. to 7 p.m. in safety zones around schools on school days (Monday through Friday)
-7 a.m. to 4 p.m.: 20 miles per hour (mph) speed limit when children are present; and the posted speed limit when no children are present
-
-https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
+7 a.m. to 4 p.m.: 20 miles per hour (mph) speed limit when children are present; and the posted speed limit when no children are present ([Source](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html))
 
 Since the whole program is established around pedestrians safety, specifically child safety, I want to look further into this aspect of  the data. 
 
