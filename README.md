@@ -22,9 +22,8 @@ The first cameras were installed in August 2013 and the data begin from July 1, 
 This could be the case that people are more aware of the location of the cameras. Also, the location of the crash might not necessarily be by a camera location. Regardless, it is concerning to see number of crashes go up
 
 
-Number of Violations and Date (Year/Month) + Time
-
-
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG1.png?raw=true)
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG2.png?raw=true)
 
 # Finding 2
 
@@ -34,7 +33,9 @@ Top 10 camera locations + Location
 
 The highlighted graph shows more
 
-
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG3.png?raw=true)
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG4.png?raw=true)
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG5.png?raw=true)
 
 # Finding 3
 
@@ -44,7 +45,8 @@ However, I want to look at the age of people that were involved in the crashes b
 
 Looking at the crash data, number of children involved in accident seem to go up year over year.  
 
-Age + Crash Hour
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6.png?raw=true)\
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG7.png?raw=true)
 
 
 
