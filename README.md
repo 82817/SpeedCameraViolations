@@ -29,13 +29,17 @@ This could be the case that people are more aware of the location of the cameras
 
 While looking at top 10 cameras with the most violation captured, the area around those cameras seem to have less accidents
 
-Top 10 camera locations + Location
-
-The highlighted graph shows more
+The first graph shows the camera locations.
 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG3.png?raw=true)
-![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG4.png?raw=true)
+
+This graph below shows crash locations. Compare with the first graph, we can see that locations around speed camera has relatively low number of crashes.
+
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG5.png?raw=true)
+
+Below is the same graph as above, with camera locations highlighted
+
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG4.png?raw=true)
 
 # Finding 3
 
@@ -45,7 +49,7 @@ However, I want to look at the age of people that were involved in the crashes b
 
 Looking at the crash data, number of children involved in accident seem to go up year over year.  
 
-![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6.png?raw=true)\
+![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6.png?raw=true)
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG7.png?raw=true)
 
 
