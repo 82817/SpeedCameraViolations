@@ -20,23 +20,25 @@ Fines for violations are $35 for vehicles traveling 6-10 mph over the posted spe
 
 # Finding 1
 
-Number of crashes over time
-Number of records with kids age under 12
 
-While number of violations decline, number of crashes seem to be the same
+While number of violations decline, number of crashes seem to go up
+Number of Violations and Date (Year/Month) + Time
 
 
 
 
 # Finding 2
 
-Low violations and camera location doesn't seem to stop crashes from happening
-(both map data piled together)
+Top 10 camera location seem to have low crashes
+
+Top 10 camera locations + Location
 
 
 
 # Finding 3
+Increase in traffic among children over time
 
+Age + Crash Hour
 
 
 
