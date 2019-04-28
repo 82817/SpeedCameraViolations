@@ -1,6 +1,10 @@
 # SpeedCameraViolations
 MSIS 2629 Spring 2019
 
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d (Traffic Crashes)
+
+https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
+
 Chicago experiences roughly 3,000 crashes annually between motor vehicles and pedestrians, about 800 of which involve children.
 
 The Children’s Safety Zone Program protects children and other pedestrians by reminding motorists to slow down and obey speed laws – especially in school and park zones. Safety zones are designated as a 1/8th of a mile boundary around any Chicago parks or schools.
@@ -20,8 +24,11 @@ Fines for violations are $35 for vehicles traveling 6-10 mph over the posted spe
 
 # Finding 1
 
+While number of violations decline over time, number of crashes seem to go up.
 
-While number of violations decline, number of crashes seem to go up
+This could be the case that people are used to the location of the cameras. Also, the location of the crash might not be close to camera location. Regardless, it is concerning to see number of crashes go up
+
+
 Number of Violations and Date (Year/Month) + Time
 
 
@@ -29,14 +36,15 @@ Number of Violations and Date (Year/Month) + Time
 
 # Finding 2
 
-Top 10 camera location seem to have low crashes
+While looking at top 10 cameras with the most violation captured, the area around those cameras seem to have less accidents
 
 Top 10 camera locations + Location
 
 
 
 # Finding 3
-Increase in traffic among children over time
+
+Looking at the crash data, number of children involved in accident seem to go up. 
 
 Age + Crash Hour
 
