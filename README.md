@@ -50,13 +50,15 @@ I'm also interested to see if number of crashes might decrease during speed came
 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG5_R.png?raw=true)
 
+_Revision notes: I've highlighted the hours of operation for this program, and turned it to a bar chart_
+
 However, I want to look at the age of people that were involved in the crashes because I believe this will be a better proxy at looking at the effectiveness of the program.
 
 Looking at the crash data, **number of children involved in accident seem to go up year over year.** 
 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6_R.png?raw=true)
 
-_Revision notes: For the crash hour chart, I've highlighted the hours of operation for this program, and turned it to a bar chart. For the age chart, I've taken out ages > 18 to strictly look at underage kids._
+_Revision notes: For the age chart, I've taken out ages > 18 to strictly look at underage kids._
 
 ### Reference
 
