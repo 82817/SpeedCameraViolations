@@ -57,3 +57,11 @@ Looking at the crash data, **number of children involved in accident seem to go 
 ![](https://github.com/82817/SpeedCameraViolations/blob/master/Images/IMG6_R.png?raw=true)
 
 _Revision notes: For the crash hour chart, I've highlighted the hours of operation for this program, and turned it to a bar chart. For the age chart, I've taken out ages > 18 to strictly look at underage kids._
+
+### Reference
+
+[Speed Violation Data](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4)
+
+[Traffic Crashes - People Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d)
+
+[Chicago Children's Safety Zone Program](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html)
